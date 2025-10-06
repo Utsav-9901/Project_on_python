@@ -1,4 +1,3 @@
-# Project_on_python
 🐍 Snake Water Gun Game
 
 A fun and simple Python-based game inspired by the classic "Rock Paper Scissors" — but with a twist!
